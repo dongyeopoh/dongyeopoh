@@ -10,9 +10,9 @@
 
 ## 🙋 소개
 
-- 🎓 **M.S. in Industrial Artificial Intelligence**
-- 🤖 AI · Vision · WPF · Unity 등을 개발하고 있습니다.
-- 🏡 틈틈이 가족의 소중한 행사를 작은 웹페이지로 만들어 기록합니다.
+- **M.S. in Industrial Artificial Intelligence**
+- AI · Vision · WPF · Unity 등을 개발하고 있습니다.
+- 틈틈이 가족의 소중한 행사를 작은 웹페이지로 만들어 기록합니다.
 
 ## 🛠️ 기술 스택
 
